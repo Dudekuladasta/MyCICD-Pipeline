@@ -1,1 +1,1 @@
-a fully automated CICD pipeline deployment from Dastagiri Babu. Dude
+a fully automated CICD pipeline deployment from Dastagiri Babu. Dudekula
